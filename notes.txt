@@ -1,0 +1,6 @@
+1.Sloppy Mode
+a=10; //window scope
+ECMA -- European computer manfracturer association
+ES5 -> "use strict"  // strict mode
+let,const -> javascript engine scope
+var or   -> global
