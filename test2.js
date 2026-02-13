@@ -22,7 +22,7 @@ let {name,age:CurrentAge} = myObj1;
 console.log(CurrentAge)
 
 let Emp = {
-    name: "Anubhav",
+    name: "Anubhav Mittal",
     age: 22,
     salary: 500000
 }
