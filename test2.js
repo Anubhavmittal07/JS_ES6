@@ -1,7 +1,7 @@
 //object desturcting .......... 
 let MyObj ={
-    name:"Goyal",
-    age:45,
+    name:"Mittal",
+    age:25,
     key:"XYZ"
 }
 
